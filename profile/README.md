@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://rogueamoeba.com/audiohijack/images/screens/screen-session@2x.png" width="800"/> 
+  <img src="https://tidbits.com/uploads/2015/08/Audio-Hijack-podcast-session.jpg" width="800"/> 
 </div>
 
 ---
